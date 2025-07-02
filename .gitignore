@@ -1,8 +1,20 @@
-# Node, Python, Terraform
 node_modules/
 .env
-__pycache__/
-*.pyc
-.terraform/
-terraform.tfstate*
 .DS_Store
+
+# macOS system files
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux temporary files
+*~
+.nfs*
+
+# Vim swap files
+*.swp
