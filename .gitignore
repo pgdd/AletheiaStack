@@ -1,0 +1,8 @@
+# Node, Python, Terraform
+node_modules/
+.env
+__pycache__/
+*.pyc
+.terraform/
+terraform.tfstate*
+.DS_Store
